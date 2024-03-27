@@ -3,7 +3,7 @@ x=st.slider("selct")
 st.write(x,'is a square',x*x)
 
 st.title("this the app")
-st.header("this is the markdown")
+st.header("this is the mar1kdown")
 st.markdown("this is header")
 st.subheader("this is subheader")
 st.caption("this the caption")
